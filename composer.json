@@ -1,0 +1,16 @@
+{
+    "name": "redstone-skin/mcskin.cn",
+    "description": "A url redirector for redstone.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {},
+    "authors": [
+        {
+            "name": "Yifan Xiao",
+            "email": "hempflower@outlook.com"
+        }
+    ],
+    "require": {
+        "klein/klein": "^2.1"
+    }
+}

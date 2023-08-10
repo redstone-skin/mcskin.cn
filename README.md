@@ -1,1 +1,1 @@
-# mcskin.cn
+# mcskin.cn - Redstone url redirector.
